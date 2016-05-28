@@ -13,7 +13,11 @@ http://www.scala-sbt.org/download.html
 ```sh
 $ sbt run
 ```
-## Expected Result
+
+#### Expected Result
 
 > Hello World
 
+## How to build package
+
+https://github.com/sureemo/scala-minimal/tree/scala-package
