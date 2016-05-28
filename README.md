@@ -13,7 +13,20 @@ http://www.scala-sbt.org/download.html
 ```sh
 $ sbt run
 ```
-## Expected Result
+
+#### Expected Result
 
 > Hello World
+
+## How to build package
+
+```sh
+$ sbt package
+```
+
+#### Expected Result
+
+New build file generated at:
+
+> target\scala-2.11\hello_scala_2.11-1.0.jar
 
